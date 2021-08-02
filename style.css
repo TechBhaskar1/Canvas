@@ -1,0 +1,14 @@
+body{
+    background-image:url("bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    border-style: ridge;
+    background-color: white;
+    border-width:10px;
+}
+h2{
+    font-variant: small-caps;
+    font-size: 50px;
+}
